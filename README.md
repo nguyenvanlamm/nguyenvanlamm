@@ -57,8 +57,8 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/nguyenvanlamm
-- Email: your-email@example.com
-- Facebook: https://facebook.com/your-profile
+- Email: lamnv260398@gmail.com
+- Facebook: https://www.facebook.com/harrys.potters.129
 
 ---
 
