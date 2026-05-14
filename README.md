@@ -13,7 +13,7 @@
 - JavaScript
 - TypeScript
 - Python
-- Java
+- C#
 
 ### Frontend
 - ReactJS
@@ -30,7 +30,6 @@
 ### Database
 - MongoDB
 - MySQL
-- PostgreSQL
 
 ### Tools
 - Git & GitHub
@@ -38,27 +37,12 @@
 - VS Code
 - Postman
 
----
-
-## 📊 GitHub Stats
-
-![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenvanlamm&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanlamm&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nguyenvanlamm&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/nguyenvanlamm
+- Linkin: https://www.linkedin.com/in/lamnv2603/
 - Email: lamnv260398@gmail.com
-- Facebook: https://www.facebook.com/harrys.potters.129
 
 ---
 
