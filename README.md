@@ -41,7 +41,7 @@
 
 - Linkin: https://www.linkedin.com/in/lamnv2603/
 - Email: lamnv260398@gmail.com
-
+- Profile: https://lamnv.com/
 ---
 
 ## ✨ Quote
