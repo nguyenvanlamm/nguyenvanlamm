@@ -37,8 +37,6 @@
 - VS Code
 - Postman
 
-## 🔥 GitHub Streak
-
 ## 📫 Connect With Me
 
 - Linkin: https://www.linkedin.com/in/lamnv2603/
